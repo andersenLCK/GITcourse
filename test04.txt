@@ -2,3 +2,9 @@ Ahoj, print("Hello, World")
 Yes thats is fine. 
 a tak dalej
 ano
+<<<<<<< HEAD
+=======
+dalsie upravi cislo 3
+dalsia uprava cislo 4
+
+>>>>>>> parent of c3b750e (this is that functionality what we posible false test04.txt)
