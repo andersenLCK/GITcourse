@@ -2,6 +2,3 @@ Ahoj, print("Hello, World")
 Yes thats is fine. 
 a tak dalej
 ano
-dalsie upravi cislo 3
-dalsia uprava cislo 4
-
