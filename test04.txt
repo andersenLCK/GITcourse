@@ -2,3 +2,4 @@ Ahoj, print("Hello, World")
 Yes thats is fine. 
 a tak dalej
 ano
+Toto som teraz upravil 15:15
