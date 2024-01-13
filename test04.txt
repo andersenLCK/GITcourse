@@ -4,4 +4,4 @@ a tak dalej
 ano
 dalsie upravi cislo 3
 dalsia uprava cislo 4
-
+This is that new functionality what is possible false.
