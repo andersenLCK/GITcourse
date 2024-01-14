@@ -7,3 +7,5 @@ dalsie upravi cislo 3
 dalsia uprava cislo 4
 
 Toto som teraz upravil 15:15
+
+This is that new functionality what is possible false.:
