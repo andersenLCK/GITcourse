@@ -3,3 +3,9 @@ Some editing for try
 deleted
 
 some more changes for this file
+
+Toto skoro vobec nefunguje a nechapem tomu, raz to ide raz to nejde
+
+textextext
+
+go go go
