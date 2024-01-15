@@ -1,7 +1,7 @@
 ok test08.txt
 Some editing for try
 ok this is not good.
-
+sem dam este nieco na zmenu.
 
 some more changes and i was changet and deleted. 
 
