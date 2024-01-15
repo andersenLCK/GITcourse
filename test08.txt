@@ -1,5 +1,7 @@
 ok test08.txt
 Some editing for try
+ok this is not good.
+
 
 some more changes and i was changet and deleted. 
 
