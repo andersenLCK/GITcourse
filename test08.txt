@@ -1,11 +1,21 @@
 ok test08.txt
 Some editing for try
+<<<<<<< HEAD
 ok this is not good.
 sem dam este nieco na zmenu.
 
 some more changes and i was changet and deleted. 
 
 edit edit edit.
+=======
+
+
+AAA
+
+AAA
+
+deleted
+>>>>>>> new_one
 
 some more changes for this file
 
