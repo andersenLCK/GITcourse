@@ -1,6 +1,5 @@
 ok test08.txt
 Some editing for try
-ok this is not good.
-
+deleted
 
 some more changes for this file
