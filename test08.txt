@@ -1,5 +1,11 @@
 ok test08.txt
 Some editing for try
+
+
+AAA
+
+AAA
+
 deleted
 
 some more changes for this file
