@@ -1,4 +1,4 @@
 ok test08.txt
 Some editing for try
 
-some more changes for this file
+some more changes and i was changet and deleted. 
