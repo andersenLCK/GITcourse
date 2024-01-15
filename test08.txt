@@ -2,3 +2,5 @@ ok test08.txt
 Some editing for try
 
 some more changes and i was changet and deleted. 
+
+edit edit edit.
