@@ -1,20 +1,13 @@
 ok test08.txt
 Some editing for try
-<<<<<<< HEAD
-ok this is not good.
-sem dam este nieco na zmenu.
 
-some more changes and i was changet and deleted. 
-
-edit edit edit.
-=======
+here 22:15 - main
+22:21 - main
 
 
-AAA
+this is edit 22:20 new
 
-AAA
 
-deleted
 >>>>>>> new_one
 
 some more changes for this file
